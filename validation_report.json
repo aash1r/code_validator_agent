@@ -1,0 +1,490 @@
+{
+  "timestamp": "2025-03-26T14:54:35.240230",
+  "metrics": {
+    "overall_compliance": 0.14634146341463417,
+    "rule_coverage": 1.7317073170731707,
+    "data_quality_score": 0.10526315789473684,
+    "performance_score": 0.05263157894736842
+  },
+  "violations": [
+    {
+      "type": "data_quality",
+      "message": "File 'tasks.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'main.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'agents.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'test.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'config.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'reports.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'tools.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Combined Layer.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Channel_Targets.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Brand_Targets.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Aggregrated Tables/Aggregations.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Facts.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Customer Mapping.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Pipeline_Parameters.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Arabia_Map.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Master_Map.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Price_Map.py' lacks data quality checks",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'tasks.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'main.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'agents.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'test.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'config.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'reports.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Combined Layer.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Gaps Identifier.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Channel_Targets.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Brand_Targets.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Aggregrated Tables/Aggregations.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Facts.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Customer Mapping.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Currency_Conversion.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Pipeline_Parameters.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Arabia_Map.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Master_Map.py' lacks proper error handling",
+      "severity": "high"
+    },
+    {
+      "type": "error_handling",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Price_Map.py' lacks proper error handling",
+      "severity": "high"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "performance",
+      "message": "File 'tasks.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'main.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'agents.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'test.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'config.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'reports.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'tools.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Gaps Identifier.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Channel_Targets.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Brand_Targets.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Aggregrated Tables/Aggregations.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Facts.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Customer Mapping.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Currency_Conversion.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Pipeline_Parameters.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Arabia_Map.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Master_Map.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Price_Map.py' lacks performance optimizations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'tasks.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'main.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'agents.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'test.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'config.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'reports.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Combined Layer.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Gaps Identifier.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Channel_Targets.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Targets/Brand_Targets.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Aggregrated Tables/Aggregations.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Facts.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Silver Layer/Unified Customer Mapping.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Currency_Conversion.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Pipeline_Parameters.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Arabia_Map.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/SKU_Master_Map.py' has no data read/write operations",
+      "severity": "medium"
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Price_Map.py' has no data read/write operations",
+      "severity": "medium"
+    }
+  ],
+  "compliant": [
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Gaps Identifier.py' has data quality checks",
+      "details": [
+        {
+          "type": "fillna",
+          "line_number": 144,
+          "arguments": [
+            "''"
+          ]
+        },
+        {
+          "type": "fillna",
+          "line_number": 145,
+          "arguments": [
+            "''"
+          ]
+        },
+        {
+          "type": "fillna",
+          "line_number": 146,
+          "arguments": [
+            "''"
+          ]
+        },
+        {
+          "type": "fillna",
+          "line_number": 147,
+          "arguments": [
+            "''"
+          ]
+        },
+        {
+          "type": "dropna",
+          "line_number": 94,
+          "arguments": []
+        },
+        {
+          "type": "dropna",
+          "line_number": 128,
+          "arguments": []
+        }
+      ]
+    },
+    {
+      "type": "data_quality",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Pre Silver/Currency_Conversion.py' has data quality checks",
+      "details": [
+        {
+          "type": "dropna",
+          "line_number": 9,
+          "arguments": []
+        },
+        {
+          "type": "dropna",
+          "line_number": 10,
+          "arguments": []
+        },
+        {
+          "type": "dropna",
+          "line_number": 13,
+          "arguments": []
+        }
+      ]
+    },
+    {
+      "type": "performance",
+      "message": "File 'Lipton-DSR/Lipton DSR Notebooks/Combined Layer/Combined Layer.py' has performance optimizations",
+      "details": {
+        "partitioning": true,
+        "caching": false,
+        "optimization_hints": [
+          {
+            "type": "coalesce",
+            "line_number": 59,
+            "arguments": [
+              "df_price['Volume_Sales_Tons']",
+              "df_price['Volume_Sales_Tons_new']"
+            ]
+          },
+          {
+            "type": "coalesce",
+            "line_number": 63,
+            "arguments": [
+              "df_price['Volume_Sales_Cases']",
+              "df_price['Volume_Sales_Cases_new']"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "data_operations",
+      "message": "File 'tools.py' has data operations",
+      "details": {
+        "read": {
+          "line_number": 274,
+          "arguments": []
+        }
+      }
+    }
+  ],
+  "suggestions": [],
+  "summary": {
+    "total_violations": 35,
+    "total_warnings": 36,
+    "total_compliant": 4,
+    "violations_by_type": {
+      "data_quality": 17,
+      "error_handling": 18
+    },
+    "warnings_by_type": {
+      "performance": 18,
+      "data_operations": 18
+    },
+    "compliant_by_type": {
+      "data_quality": 2,
+      "performance": 1,
+      "data_operations": 1
+    }
+  }
+}
